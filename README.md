@@ -1,8 +1,8 @@
 # microsoft-clone
 
- Using Javacript, Html, Css & Aws I've learnt to build a home page clone of Microsoft website. 
+ Using Javacript, Html, Css I've learnt to build a home page clone of Microsoft website. 
  
-[Live demo](http://microsoft-clone-site.s3-website-us-east-1.amazonaws.com)
+[Live demo](https://gonzalo6282.github.io/microsoft-clone/)
  
  ![This is an image](https://github.com/Gonzalo6282/microsoft-clone/blob/main/microsoft.png)
  
